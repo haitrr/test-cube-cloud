@@ -10,9 +10,6 @@ views:
           - completed_count
           - completed_percentage
           - total
-          - dau
-          - wau
-          - mau
 
       - join_path: base_orders.users
         prefix: true
